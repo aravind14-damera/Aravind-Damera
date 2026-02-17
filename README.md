@@ -5,7 +5,7 @@
 - 🔭 Currently learning **DSA and Backend Development**
 - 🌱 Working on **real-world projects**
 - 💬 Ask me about **Java, Python, and SQL**
-- 📫 Reach me at: yourmail@gmail.com
+- 📫 Reach me at: dameraaravind14@gmail.com
 
 ### Connect with me:
 - LinkedIn: https://www.linkedin.com/in/damera-aravind14
